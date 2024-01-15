@@ -23,7 +23,7 @@ The project focuses on conducting an initial data and exploratory analysis for I
 NOTE: The Customer dataset as well as the “prices” column in the Products dataset from Instacart, were both fabricated for the purpose of the Data Analytics course by CareerFoundry.
 ## Python scripts
 This data analysis project is organized into 9 scripts outlined below:
-* [Step1](12_2023_Instacart_Basket_Analysis/03_Scripts/Step1_IC_Project Brief_data_wrangling_and_consistency_checks.ipynb): IC Project Brief, Data Wrangling, and Consistency Checks
+* [Step1](12_2023_Instacart_Basket_Analysis/03_Scripts/Step1_IC_Project_Brief_data_wrangling_and_consistency_checks.ipynb): IC Project Brief, Data Wrangling, and Consistency Checks
   * Comprehensive project description, research questions, data sources, and initial data cleaning steps such as missing data, duplicates, data inconsistency, etc.
 * [Step 2 to 5](12_2023_Instacart_Basket_Analysis/03_Scripts): IC Final Dataframe after Exclusion Flag
   * Merging all dataframes and applying an exclusion flag, while handling RAM memory issues.
