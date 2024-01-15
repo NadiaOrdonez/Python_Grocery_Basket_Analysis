@@ -23,17 +23,17 @@ The project focuses on conducting an initial data and exploratory analysis for I
 NOTE: The Customer dataset as well as the “prices” column in the Products dataset from Instacart, were both fabricated for the purpose of the Data Analytics course by CareerFoundry.
 ## Python scripts
 This data analysis project is organized into 9 scripts outlined below:
-* Step 1: IC Project Brief, Data Wrangling, and Consistency Checks
+* [Step1](12_2023_Instacart_Basket_Analysis/03_Scripts/Step1_IC_Project Brief_data_wrangling_and_consistency_checks.ipynb): IC Project Brief, Data Wrangling, and Consistency Checks
   * Comprehensive project description, research questions, data sources, and initial data cleaning steps such as missing data, duplicates, data inconsistency, etc.
-* Step 2 to 5: IC Final Dataframe after Exclusion Flag
+* [Step 2 to 5](12_2023_Instacart_Basket_Analysis/03_Scripts): IC Final Dataframe after Exclusion Flag
   * Merging all dataframes and applying an exclusion flag, while handling RAM memory issues.
-* Step 6: IC Derivations and Aggregations
+* [Step 6](12_2023_Instacart_Basket_Analysis/03_Scripts/Step6_IC_Derivations_and_Aggregations.ipynb): IC Derivations and Aggregations
   * Explanation of aggregate and derived variables based on stakeholders' requests.
-* Step 7: IC Customer Profiling
+* [Step 7](12_2023_Instacart_Basket_Analysis/03_Scripts/Step7_IC_Customer_profiling.ipynb): IC Customer Profiling
   * Development of customer profiles derived from the customer dataframe.
-* Step 8: IC Customer Profiling Questions
+* [Step 8](12_2023_Instacart_Basket_Analysis/03_Scripts/Step8_IC_Customer_profiling_questions.ipynb): IC Customer Profiling Questions
   * Responses to questions related to customer profiling, using visuals.
-* Step 9: IC Stakeholder Key Questions
+* [Step 9](12_2023_Instacart_Basket_Analysis/03_Scripts/Step9_IC_Stakeholders_key_questions.ipynb): IC Stakeholder Key Questions
   * Responses to key questions posed by stakeholders, using visuals.
 
 ChatGPT 3.5 was used to facilitate and speed the data analysis process. 
