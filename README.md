@@ -18,7 +18,7 @@ Address business questions posed by Instacart Management Board, regarding custom
 ### Scope
 The project focuses on conducting an initial data and exploratory analysis for Instacart, aiming to uncover sales insights and propose strategies to enhance customer segmentation based on specified criteria proposed by the Management board.
 ## Dataframes overview
-* The Instacart datasets 2017: Orders, Orders Products Prior, Products were accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 19.12.2023. 
+* The Instacart datasets 2017: Orders, Orders Products Prior, Products were accessed via [Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/data) on 19.12.2023. 
 * The Customer dataset was provided by CareerFoundry.
 NOTE: The Customer dataset as well as the “prices” column in the Products dataset from Instacart, were both fabricated for the purpose of the Data Analytics course by CareerFoundry.
 ## Python scripts
