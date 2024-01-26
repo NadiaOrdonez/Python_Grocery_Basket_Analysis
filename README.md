@@ -38,7 +38,7 @@ This data analysis project is organized into 9 scripts outlined below:
 
 ChatGPT 3.5 was used to facilitate and speed the data analysis process. 
 ## Instacart customer profile and sales recommendations 
-Stakekholders are informed about our main Python findings in the [Excel report](12_2023_Instacart_Basket_Analysis/05_Sent_to_client/12_2023_IC_Grocery_report_NadiaOrdonez.xlsx). The below recommendations are supported by our data analysis process.
+Stakekholders are informed about our main Python findings in the [Excel report]([12_2023_Instacart_Basket_Analysis/05_Sent_to_client/12_2023_IC_Grocery_report_NadiaOrdonez.xlsx](https://docs.google.com/spreadsheets/d/1XzEiiIJ1FWL9MJj6Rg4513DYdgzRU6tR/edit?usp=sharing&ouid=100495170560300906732&rtpof=true&sd=true)). The below recommendations are supported by our data analysis process.
 * _Optimized Ad Scheduling:_ To enhance the effectiveness of our targeted marketing campaign, consider scheduling ads during periods with lower order volumes. The analysis indicates that Wednesdays and Thursdays between 23:00 and 06:00 experience the fewest orders on our app.
 * _Strategic Advertising Timing:_ Capitalize on peak user activity and spending by focusing product advertising between 09:00 and 16:00. During these hours, our users spend each hour over 17 million dollars. Aligning marketing efforts with this active period can maximize engagement and sales.
 * _Product Pricing:_ Emphasize mid-range products priced between 5 and 15 dollars, as these have proven to be the most popular among our users.
